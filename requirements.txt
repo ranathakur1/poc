@@ -1,0 +1,8 @@
+google-cloud-bigtable
+google-cloud-core
+google-cloud-storage
+google-cloud-bigquery
+pandas
+fsspec
+gcsfs
+pandas-gbq
